@@ -323,8 +323,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item web-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-1.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-1.jpg" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" class="link-preview" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-1.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-1.jpg" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" class="link-preview" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Web Development</span></h4>
                             </figure>
@@ -334,8 +334,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item web-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-2.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-2.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Web Development</span></h4>
                             </figure>
@@ -345,8 +345,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item game-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-3.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-3.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Game Development</span></h4>
                             </figure>
@@ -356,8 +356,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item game-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-4.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-4.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-4.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-4.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Game Development</span></h4>
                             </figure>
@@ -367,8 +367,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item app-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-5.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-5.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-5.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-5.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>App Development</span></h4>
                             </figure>
@@ -378,8 +378,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item app-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/posrtfolio-6.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio-6.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
+                                <img src="imgs/portfolio-6.jpg" class="img-fluid" alt="">
+                                <a href="imgs/portfolio-6.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>App Development</span></h4>
                             </figure>
