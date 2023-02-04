@@ -36,7 +36,7 @@
         <div id="header">
             <div class="container-fluid">
                 <div id="logo" class="pull-left">
-                    <a href="index.html"><img src="img/logo.png" alt="Logo" /></a>
+                    <a href="index.html"><img src="imgs/logo.png" alt="Logo" /></a>
                 </div>
 
                 <nav id="nav-menu-container">
@@ -64,7 +64,7 @@
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <div class="carousel-background"><img src="img/slider-1.jpg" alt=""></div>
+                            <div class="carousel-background"><img src="imgs/slider-1.jpg" alt=""></div>
                             <div class="carousel-container">
                                 <div class="carousel-content">
                                     <h2>Web Design</h2>
@@ -77,7 +77,7 @@
                         </div>
 
                         <div class="carousel-item">
-                            <div class="carousel-background"><img src="img/slider-2.jpg" alt=""></div>
+                            <div class="carousel-background"><img src="imgs/slider-2.jpg" alt=""></div>
                             <div class="carousel-container">
                                 <div class="carousel-content">
                                     <h2>Desktop Application</h2>
@@ -90,7 +90,7 @@
                         </div>
 
                         <div class="carousel-item">
-                            <div class="carousel-background"><img src="img/slider-3.jpg" alt=""></div>
+                            <div class="carousel-background"><img src="imgs/slider-3.jpg" alt=""></div>
                             <div class="carousel-container">
                                 <div class="carousel-content">
                                     <h2>Game Development</h2>
@@ -323,7 +323,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item web-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-1.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-1.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-1.jpg" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" class="link-preview" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Web Development</span></h4>
@@ -334,7 +334,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item web-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-2.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-2.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Web Development</span></h4>
@@ -345,7 +345,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item game-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-3.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-3.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Game Development</span></h4>
@@ -356,7 +356,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item game-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-4.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-4.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-4.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>Game Development</span></h4>
@@ -367,7 +367,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item app-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-5.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-5.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-5.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>App Development</span></h4>
@@ -378,7 +378,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item app-dev">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio-6.jpg" class="img-fluid" alt="">
+                                <img src="img/posrtfolio-6.jpg" class="img-fluid" alt="">
                                 <a href="img/portfolio-6.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lorem ipsum dolor sit" title="Preview"><i class="fa fa-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="fa fa-link"></i></a>
                                 <h4 class="portfolio-title">Lorem ipsum dolor sit <span>App Development</span></h4>
@@ -396,7 +396,7 @@
                 <div class="owl-carousel testimonials-carousel">
                     <div class="testimonial-item">
                         <div class="testimonial-img">
-                            <img src="img/testimonial-1.jpg" alt="">
+                            <img src="img/tesstimonial-1.jpg" alt="">
                         </div>
                         <div class="testimonial-content">
                             <h3>Jayden Vaughan</h3>
@@ -409,7 +409,7 @@
 
                     <div class="testimonial-item">
                         <div class="testimonial-img">
-                            <img src="img/testimonial-2.jpg" alt="">
+                            <img src="img/tesstimonial-2.jpg" alt="">
                         </div>
                         <div class="testimonial-content">
                             <h3>Aidan Brooks</h3>
@@ -422,7 +422,7 @@
 
                     <div class="testimonial-item">
                         <div class="testimonial-img">
-                            <img src="img/testimonial-3.jpg" alt="">
+                            <img src="img/tesstimonial-3.jpg" alt="">
                         </div>
                         <div class="testimonial-content">
                             <h3>Reece Kent</h3>
@@ -471,7 +471,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="contact-info">
-                            <img src="img/map.jpg" alt="Map" />
+                            <img src="img/masp.jpg" alt="Map" />
                             <p><i class="fa fa-map-marker"></i>123 Traders City, Los Angeles, CA, USA</p>
                             <p><i class="fa fa-envelope"></i>email@example.com</p>
                             <p><i class="fa fa-phone"></i>+123-456-7890</p>
