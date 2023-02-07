@@ -36,7 +36,7 @@
         <div id="header">
             <div class="container-fluid">
                 <div id="logo" class="pull-left">
-                    <a href="index.html"><img src="imgs/logo.png" alt="Logo" /></a>
+                    <a href="index.html"><img src="imgs/logo_site.png" alt="Logo" /></a>
                 </div>
 
                 <nav id="nav-menu-container">
